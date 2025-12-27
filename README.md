@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=500&lines=Senior+Cloud+Engineer;AWS+%26+Azure+Architect;DevOps+Automation+Expert;Valorant+Strategist+%F0%9F%8E%AE" alt="Typing SVG" />
 
   <br>
-  <a href="https://soumya.co.in">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-soumya.co.in-2ea44f?style=for-the-badge&logo=firefox&logoColor=white" height="30" alt="Portfolio"/>
+  <a href="https://www.soumya.cloud">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-soumya.cloud-2ea44f?style=for-the-badge&logo=firefox&logoColor=white" height="30" alt="Portfolio"/>
   </a>
   <br><br>
 
