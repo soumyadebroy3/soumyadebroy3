@@ -37,54 +37,54 @@ I am a **Senior Cloud Engineer** with over **3 years of experience** specializin
 
 **☁️ Cloud & Infrastructure**
 <br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
 
 **🚀 DevOps & IaC**
 <br>
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" />
+<img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="ECS" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="ADO" />
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CodePipeline" />
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GHA" />
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 
 **📈 Monitoring & Observability**
 <br>
-![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+<img src="https://img.shields.io/badge/Azure%20Monitor-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor" />
+<img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" />
 
 **🛠️ Backend & Web**
 <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 **🗄️ Data & Storage**
 <br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 **🎮 Creative & Hobbies**
 <br>
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lr" />
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 
 ---
 
 ### 📌 Featured Projects
 <div align="center">
   <a href="https://github.com/soumyadebroy3/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadebroy3&repo=portfolio&theme=github_dark&hide_border=true" />
+    <b>[ Click here to view my Portfolio Project ]</b>
   </a>
 </div>
 
@@ -97,29 +97,10 @@ I am a **Senior Cloud Engineer** with over **3 years of experience** specializin
 
 <br>
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadebroy3&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadebroy3&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soumyadebroy3&theme=github_dark&hide_border=true" alt="streak graph" />
-</div>
-
-<br>
-
-### 🏆 Trophies
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumyadebroy3&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" />
-</a>
-</div>
-
 ---
 
 <div align="center">
   <i>"Simplicity is the prerequisite for reliability." — Edsger W. Dijkstra</i>
   <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=soumyadebroy3&icon=3&color=2" />
+  <img src="https://visitcount.itsvg.in/api?id=soumyadebroy3&icon=3&color=2" alt="Visitor Count" />
 </div>
