@@ -47,9 +47,18 @@ I am a **Senior Cloud Engineer** with over **3 years of experience** specializin
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**📈 Monitoring & Observability**
+<br>
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 
 **🛠️ Backend & Web**
 <br>
@@ -92,6 +101,19 @@ I am a **Senior Cloud Engineer** with over **3 years of experience** specializin
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadebroy3&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadebroy3&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=soumyadebroy3&theme=github_dark&hide_border=true" alt="streak graph" />
+</div>
+
+<br>
+
+### 🏆 Trophies
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumyadebroy3&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" />
+</a>
 </div>
 
 ---
